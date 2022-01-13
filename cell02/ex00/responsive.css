@@ -1,0 +1,21 @@
+td
+{
+	border: 1px solid blue;
+}
+table
+{
+	height : 100%;
+	width : 100%;
+	position : absolute;
+	border-collapse : collapse;
+}
+.td1
+{
+	background-color: lime;
+	text-align : center;
+}
+.td2
+{
+	background-color : green;
+	text-align : center;
+}
